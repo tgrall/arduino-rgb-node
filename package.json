@@ -1,0 +1,13 @@
+{
+  "name" : "mongoDBionic-man",
+  "version" : "0.1.0",
+  "description" : "A sample application to show Arduino and MongoDB.",
+  "main" : "app.js",
+  "author" : "Tugdual Grall tugdual@gmail.com",
+  "license" : "Apache",
+  "dependencies" : {
+    "johnny-five" : "0.7.*",
+    "socket.io" : "1.0.*",
+    "express" : "4.*.*"
+  }
+}
