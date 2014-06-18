@@ -12,7 +12,7 @@ The RGB LED is connected on PWN Ports : 9,10,11 and use the Firmata application.
 
 Schema
 
-![Schema](/public/sketch/rgb-sample.png =400x)
+![Schema](/public/sketch/rgb-sample.png)
 
 
 More to come....
