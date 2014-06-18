@@ -10,9 +10,9 @@ This simple application is using:
 The Web page is sending events to the Aduino using Johnny Five library.
 The RGB LED is connected on PWN Ports : 9,10,11 and use the Firmata application.
 
-The Sketch
+Schema
 
-![Sketch](/public/sketch/rgb-sample.png)
+![Schema](/public/sketch/rgb-sample.png =400x)
 
 
 More to come....
